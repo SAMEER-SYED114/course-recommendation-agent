@@ -4,6 +4,7 @@
 **Agent:** Course Recommendation Agent (Beginner)  
 **One-liner:** My agent takes a student profile (background, goals, known skills) and produces an ordered, personalised learning path with rationale for every recommended course.
 
+live Demo : https://course-recommendation-agent.vercel.app/
 ---
 
 ## ⚡ TL;DR — Run It In 2 Minutes
